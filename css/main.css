@@ -1,0 +1,66 @@
+
+.cuadro{
+	position: absolute;
+	height: 100px;
+	width: 60%;
+	top:50px;
+	right:300px;
+	background-repeat: no-repeat;
+}
+
+.informacion{
+	position: relative;
+	z-index: 1;
+	width: 250px;
+    height: 40px;
+    left:  235px;
+    border-left: 555px solid transparent;
+    border-bottom: 535px solid #A4A4A4;
+}
+
+.logo{
+	position:absolute;
+	z-index:1;
+	background-repeat: no-repeat;
+	width:250px;
+	height: 125px;
+	left:120px;
+	
+}
+
+.nombre{
+	position: absolute;
+	z-index: 1;
+	width:200px;
+	height: 100px;
+	bottom: 400px;
+	left:750px;
+	font-family: CentSchbkCyrill BT;
+}
+
+
+.carrera{
+	position: absolute;
+	z-index: 1;
+	bottom: 300px;
+	left:680px;
+	color: #FF8000;
+}
+
+.datos{
+	position: absolute;
+	z-index: 1;
+	bottom: 200px;
+	left: 600px;
+}
+
+.simbol{
+	position: absolute;
+	z-index: 1;
+	background-repeat: no-repeat;
+	width:80px;
+	height: 80px;
+	top:450px;
+	left: 725px;
+	
+}
